@@ -4,19 +4,19 @@
 4:"static/chunks/252-6efa477e8a5a2766.js"
 5:"static/chunks/app/not-found-be20003a9585d69a.js"
 6:I[6871,["252","$4","345","$5"],""]
-a:"static/chunks/763-ef0e1977d1cf8f5e.js"
-b:"static/chunks/app/page-35631049f8ea2934.js"
-c:I[4599,["252","$4","763","$a","974","$b"],"Campaign"]
+a:"static/chunks/114-935ac66d121dbbfb.js"
+b:"static/chunks/app/page-65c2c446e59ff362.js"
+c:I[4599,["252","$4","114","$a","974","$b"],"Campaign"]
 d:I[7060,[],"OutletBoundary"]
 e:"$Sreact.suspense"
 11:"ViewportBoundary"
 12:I[7060,[],"$11"]
 13:"MetadataBoundary"
 14:I[7060,[],"$13"]
-:HL["/clientspace-detailing-demos/_next/static/css/ed9f46bf2f6567db.css","style"]
+:HL["/clientspace-detailing-demos/_next/static/css/93e611bc24987189.css","style"]
 8:X
 9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$Lc",null,{"clients":[{"slug":"joker-detailing","profile":{"name":"JokerDetailing","city":"Нижний Новгород","photos":[{"id":"joker-front","path":"/media/joker-work-3.webp","alt":"Автомобиль в работе, вид спереди","kind":"photo","sort_order":0},{"id":"joker-door","path":"/media/joker-work-2.webp","alt":"Работы с внутренней частью автомобильной двери","kind":"photo","sort_order":1},{"id":"joker-wheel","path":"/media/joker-work-6.webp","alt":"Ручная работа в области колеса","kind":"photo","sort_order":2}],"contact":{"address":"Нижний Новгород, улица Новикова-Прибоя, 4, корп. 6","phone":"+7 (831) 214-44-31","sourceUrl":"https://jokerservice.clients.site/"}}}]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$8"}}]]
-0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clientspace-detailing-demos/_next/static/css/ed9f46bf2f6567db.css","precedence":"next"}]],["$","html",null,{"lang":"ru","className":"__variable_e0a571 __variable_f96e12","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","main",null,{"id":"main","className":"section","children":["$","div",null,{"className":"shell","children":[["$","h1",null,{"children":"Страница не найдена"}],["$","$L6",null,{"className":"button button-gold","href":"/","children":"На главную"}]]}]}],[]]}]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ClientSpace — демо для детейлинга"}],["$","meta","1",{"name":"description","content":"Профессиональный детейлинг, восстановление и защита автомобиля."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$8"}},"a":"$@16","u":"$@17","b":"fcbJiWOlRalJXzWSPU-tv"}
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clientspace-detailing-demos/_next/static/css/93e611bc24987189.css","precedence":"next"}]],["$","html",null,{"lang":"ru","className":"__variable_e0a571 __variable_f96e12","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","main",null,{"id":"main","className":"section","children":["$","div",null,{"className":"shell","children":[["$","h1",null,{"children":"Страница не найдена"}],["$","$L6",null,{"className":"button button-gold","href":"/","children":"На главную"}]]}]}],[]]}]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ClientSpace — демо для детейлинга"}],["$","meta","1",{"name":"description","content":"Профессиональный детейлинг, восстановление и защита автомобиля."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$8"}},"a":"$@16","u":"$@17","b":"AhN2j2WEuCBA2pOJWW7wy"}
 f:null
 8:300
 17:true
