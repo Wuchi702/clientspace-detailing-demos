@@ -1,0 +1,31 @@
+1:"$Sreact.fragment"
+2:I[9233,[],""]
+3:I[9141,[],""]
+4:"static/chunks/252-6efa477e8a5a2766.js"
+5:"static/chunks/app/not-found-be20003a9585d69a.js"
+6:I[6871,["252","$4","345","$5"],""]
+d:"static/chunks/407-00f7d4b3cc9a73f1.js"
+e:"static/chunks/app/campaign/page-c01b0bf8c2d3c099.js"
+f:I[654,["252","$4","407","$d","961","$e"],"Campaign"]
+10:I[7060,[],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[7060,[],"$14"]
+16:"MetadataBoundary"
+17:I[7060,[],"$16"]
+:HL["/clientspace-detailing-demos/_next/static/css/22060dac27c37238.css","style"]
+8:X
+b:X
+b:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$Lf",null,{"clients":[{"slug":"joker-detailing","profile":{"name":"JokerDetailing","city":"Нижний Новгород","headline":["Детейлинг","и защита автомобиля"],"intro":"Уход за кузовом и салоном, оклейка защитной плёнкой и тонировка автостёкол в Нижнем Новгороде.","about":"JokerDetailing занимается уходом за автомобилями, оклейкой кузова и тонировкой стёкол. На этой странице собраны основные направления студии и контакты для консультации.","heroImage":"/media/hero.webp","accent":"silver","services":[{"title":"Детейлинг","description":"Уход за кузовом и салоном. Состав работ зависит от состояния автомобиля и задачи владельца.","image":"/media/scene-1.webp","imageAlt":"Мастер полирует кузов автомобиля"},{"title":"Оклейка автомобилей","description":"Плёнка для защиты кузова. Можно обсудить отдельные зоны или более широкую оклейку.","image":"/media/scene-3.webp","imageAlt":"Мастер укладывает плёнку на капот"},{"title":"Тонировка автостёкол","description":"Подбор плёнки по желаемому затемнению и консультация по подходящим стёклам.","image":"/media/demo-window.webp","imageAlt":"Боковое стекло автомобиля с тонировочной плёнкой"}],"contact":{"address":"Нижний Новгород, улица Новикова-Прибоя, 4, корп. 6","phone":"+7 (831) 214-44-31","sourceUrl":"https://jokerservice.clients.site/"}}}]}],null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$8"}}]]
+9:[["children",{"s":"campaign","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clientspace-detailing-demos/_next/static/css/22060dac27c37238.css","precedence":"next"}]],["$","html",null,{"lang":"ru","className":"__variable_e0a571 __variable_f96e12","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","main",null,{"id":"main","className":"section","children":["$","div",null,{"className":"shell","children":[["$","h1",null,{"children":"Страница не найдена"}],["$","$L6",null,{"className":"button button-gold","href":"/","children":"На главную"}]]}]}],[]]}]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ClientSpace — демо для детейлинга"}],["$","meta","1",{"name":"description","content":"Профессиональный детейлинг, восстановление и защита автомобиля."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":null,"s":"$8"}},"a":"$@19","u":"$@1a","b":"JPHAmRYhKr1ZJWAZsK7KE"}
+12:null
+8:300
+1a:true
+8:C
+19:0
+a:"$undefined"
+7:"$undefined"
+18:"$undefined"
+13:"$undefined"

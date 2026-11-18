@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:I[9233,[],""]
+3:I[9141,[],""]
+4:"static/chunks/252-6efa477e8a5a2766.js"
+5:"static/chunks/app/not-found-be20003a9585d69a.js"
+6:I[6871,["252","$4","345","$5"],""]
+a:"static/chunks/407-00f7d4b3cc9a73f1.js"
+b:"static/chunks/app/campaign/page-c01b0bf8c2d3c099.js"
+c:I[654,["252","$4","407","$a","961","$b"],"Campaign"]
+d:I[7060,[],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[7060,[],"$10"]
+13:"MetadataBoundary"
+14:I[7060,[],"$13"]
+16:I[2083,[],"default",1]
+:HL["/clientspace-detailing-demos/_next/static/media/2ffcac4f26fda28c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clientspace-detailing-demos/_next/static/media/fedf4c9280b16369-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clientspace-detailing-demos/_next/static/css/22060dac27c37238.css","style"]
+8:X
+9:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Lc",null,{"clients":[{"slug":"joker-detailing","profile":{"name":"JokerDetailing","city":"Нижний Новгород","headline":["Детейлинг","и защита автомобиля"],"intro":"Уход за кузовом и салоном, оклейка защитной плёнкой и тонировка автостёкол в Нижнем Новгороде.","about":"JokerDetailing занимается уходом за автомобилями, оклейкой кузова и тонировкой стёкол. На этой странице собраны основные направления студии и контакты для консультации.","heroImage":"/media/hero.webp","accent":"silver","services":[{"title":"Детейлинг","description":"Уход за кузовом и салоном. Состав работ зависит от состояния автомобиля и задачи владельца.","image":"/media/scene-1.webp","imageAlt":"Мастер полирует кузов автомобиля"},{"title":"Оклейка автомобилей","description":"Плёнка для защиты кузова. Можно обсудить отдельные зоны или более широкую оклейку.","image":"/media/scene-3.webp","imageAlt":"Мастер укладывает плёнку на капот"},{"title":"Тонировка автостёкол","description":"Подбор плёнки по желаемому затемнению и консультация по подходящим стёклам.","image":"/media/demo-window.webp","imageAlt":"Боковое стекло автомобиля с тонировочной плёнкой"}],"contact":{"address":"Нижний Новгород, улица Новикова-Прибоя, 4, корп. 6","phone":"+7 (831) 214-44-31","sourceUrl":"https://jokerservice.clients.site/"}}}]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":false,"v":null}}]]
+7:[["children",{"s":"campaign","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$8"},"c":"$Q9"}]]
+0:{"P":null,"c":["","campaign",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clientspace-detailing-demos/_next/static/css/22060dac27c37238.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"__variable_e0a571 __variable_f96e12","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main","className":"section","children":["$","div",null,{"className":"shell","children":[["$","h1",null,{"children":"Страница не найдена"}],["$","$L6",null,{"className":"button button-gold","href":"/","children":"На главную"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],"p":false,"v":null},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":"$L15"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$16",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"JPHAmRYhKr1ZJWAZsK7KE"}
+8:C
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:null
+15:[["$","title","0",{"children":"ClientSpace — демо для детейлинга"}],["$","meta","1",{"name":"description","content":"Профессиональный детейлинг, восстановление и защита автомобиля."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]
